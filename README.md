@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Stratos
 - 👀 I’m interested in PHP, Python and programming in general
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, React
 - 📫 How to reach me @stratoskoul
